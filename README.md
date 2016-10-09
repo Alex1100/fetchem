@@ -13,5 +13,5 @@ Make fetch.go Build
 <code>go build fetch.go</code>
 
 Search URL
-<code>./fetch.go < Insert URL Here ></code>
+<code>./fetch < Insert URL Here ></code>
 
